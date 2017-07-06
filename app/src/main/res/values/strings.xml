@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LakesCafe</string>
+    <string name="title_activity_primary">Loading</string>
+    <string name="title_activity_tabbed">Menu</string>
+    <string name="action_settings">Clear Database</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
